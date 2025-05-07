@@ -1,0 +1,13 @@
+<!-- res/drawable/bg_add_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="#FFFFFF" /> <!-- White background (or change as needed) -->
+
+    <stroke
+        android:width="2dp"
+        android:color="@color/green" /> <!-- Green border -->
+
+    <corners android:radius="12dp" />
+</shape>
+
